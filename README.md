@@ -7,4 +7,4 @@ Utilizing HTML, CSS, and JavaScript, in VS Code and GitHub, I designed my own vi
 Visit the site hosted on GitHub pages [here](https://tmadeline.github.io/). 
 *Feel free to connect with me via the contact details located in my portfolio!*
 
-[![Thumbnail of Portfolio Homepage](static/preview3.png)](https://tmadeline.github.io/)
+[[![Thumbnail of Portfolio Homepage](static/preview3.png)](https://tmadeline.github.io/)](https://github.com/atakoutene/Portfolio-Website/blob/main/static/preview3.jpg)https://github.com/atakoutene/Portfolio-Website/blob/main/static/preview3.jpg
