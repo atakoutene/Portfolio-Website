@@ -2,7 +2,7 @@ Hi, I'm Takou Aurelien, a solution-oriented computer science student with an inc
 
 Utilizing HTML, CSS, and JavaScript, in VS Code and GitHub, I designed my own virtual portfolio to display my professional background.
 
-Visit the site hosted on GitHub pages [here](https://atakoutene.github.io/Portfolio-Website/) . Feel free to connect with me via the contact details located in my portfolio!
+Visit the site hosted on GitHub pages [here](https://atakoutene.github.io/taurelien/) . Feel free to connect with me via the contact details located in my portfolio!
 
 ![preview3](https://github.com/atakoutene/Portfolio-Website/assets/75928803/5bc248ea-4413-4466-b0bf-1aaa6afdab4e)
 
