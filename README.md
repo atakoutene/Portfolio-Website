@@ -4,7 +4,7 @@ Hi, I'm **Takou** Aurelien, a solution-oriented computer science student with an
 
 Utilizing HTML, CSS, and JavaScript, in VS Code and GitHub, I designed my own virtual portfolio to display my professional background.
 
-Visit the site hosted on GitHub pages [here](https://tmadeline.github.io/) and on AWS [here](https://tolani.cloud/). 
-*Feel free to connect with me via the contact details located in my portfolio, or scroll down to the contact section and schedule a quick meeting to get to know me!*
+Visit the site hosted on GitHub pages [here](https://tmadeline.github.io/). 
+*Feel free to connect with me via the contact details located in my portfolio!*
 
 [![Thumbnail of Portfolio Homepage](static/preview.png)](https://tmadeline.github.io/)
