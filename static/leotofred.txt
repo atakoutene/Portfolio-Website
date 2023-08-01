@@ -1,0 +1,4 @@
+        <div class="owl-carousel owl-theme" data-autoplay="true" data-nav="true" data-loop="true" data-margin="30" data-slideby="2" data-stagepadding="5" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="6">
+          <div class="logo-carousel"><a href="https://www.coursera.org/accomplishments" target="_blank"><img class="img-fluid" src="static/Programming for Everybody (Getting Started with Python) Coursera Best course.jpg" alt="Introduction to Cybersecurity - Issued by Cisco" /></a></div>
+          <!--<div class="logo-carousel"><a><img class="img-fluid" src="images/tools/kubernetes-logo.png" alt="" /></a></div>-->
+        </div>
